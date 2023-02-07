@@ -1,5 +1,5 @@
 ---
-title: Csta Rican Ceviche
+title: Costa Rican Ceviche
 date: 2022-10-19
 order: 1
 layout: recipe

@@ -1,46 +1,33 @@
 ---
-layout: recipe
-title: Some recipe
+title: Csta Rican Ceviche
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+The perfect appetizer that can be found all across Latin America, and Costa Rica is no exception. Fresh fish marinated in lime, red bell pepper, cilantro and onion make for a delicious and easy recipe.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+There are several variations to this recipe - instead of white fish, Costa Rican ceviches can also be made with shrimp, green banana,[](https://www.puravidamoms.com/boiled-green-plantain-recipe-costa-rica/) green mango, green papaya, etc.
 
+![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/traditional-costa-rican-fish-ceviche-720x540.jpg "Photo by Christa Jimenez")
 
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
+* 1 pound of raw corvina (white sea bass or other firm white fish), cut into 1/2-inch dice
+* 1 cup fresh lime juice (enough juice to completely cover and “cook” the fish)
+* 2 medium red bell peppers, finely chopped
+* 1 medium onion, finely chopped
+* 1 large handful of fresh cilantro, finely chopped
+* 1/2 cup of ginger ale (optional; omit for Whole30; see note below)
+* 1/2 cup of club soda
+* salt and pepper to taste
 
+NOTE: The ginger ale is what makes it Costa Rican; it’s also what makes it not paleo. So… if you want to have some fun, use the ginger ale. If you want to remain clean, omit the ginger ale and increase the club soda to 1 cup.
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+1. Combine all ingredients in a large glass bowl, cover tightly with plastic wrap, and allow the fish to “cook” in the marinade for at least 30 minutes. Tastes best after at least 6-8 hours; phenomenally good on the second day.
+2. Serve with on a bed of lettuce with sliced avocado, bell pepper strips, cucumber slices, and, if you’re feeling particularly Costa Rican, a healthy splash of Salsa Lizano - the quintessential Costa Rican sauce that you can find on [Amazon.com](https://www.amazon.com/gp/product/B005TBURAI/ref=as_li_ss_tl?ie=UTF8&tag=roltheboo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005TBURAI).
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
-
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
-
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
-
-- Serves: 6
-- Preparation time: 1 hour
+* Serves: 3-4
+* Preparation time: 10 minutes | Marinate 30 min. minimum

@@ -18,7 +18,7 @@ There are several variations to this recipe - instead of white fish, Costa Rican
 * 2 medium red bell peppers, finely chopped
 * 1 medium onion, finely chopped
 * 1 large handful of fresh cilantro, finely chopped
-* 1/2 cup of ginger ale (optional; omit for Whole30; see note below)
+* 1/2 cup of ginger ale (optional, see note below)
 * 1/2 cup of club soda
 * salt and pepper to taste
 

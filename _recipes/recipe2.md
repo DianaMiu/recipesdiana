@@ -1,7 +1,7 @@
 ---
 title: "Garbanzo Bean Soup "
 date: 2019-10-19
-order: 0
+order: 2
 layout: recipe
 published: true
 ---
@@ -9,7 +9,7 @@ This savory garbanzo bean soup is packed with protein and fiber- and traditional
 
 This soup is a very popular dish in Costa Rica- but you will almost never find it on a menu. It’s one of those recipes people make at home, but don’t go out to eat and crave. That’s probably because it’s simple to make from scratch, and can be reheated for several rounds of meals. It’s a relatively inexpensive recipe if you are feeding your family on a budget, and it’s easy to feed a crowd.
 
-![](../uploads/garbanzo-bean-soup-with-white-rice.jpg "Garbanzo Bean Soup")
+![](../uploads/garbanzo-bean-soup-with-white-rice.jpg "Photo: Christa Jimenez")
 
 ## Ingredients
 
@@ -38,9 +38,9 @@ Next you will add one can of undrained garbanzos and the optional carrots to the
 
 I usually add the cilantro about 5 minutes before serving, or you can garnish the soup with fresh cilantro on top. Season with salt and pepper to taste.
 
-This soup is traditionally served in a deep bowl with white rice on the bottom and covered with soup. I like to forgo the rice and eat with tortilla chips and avocado slices. ¡Buen provecho!
+This soup is traditionally served in a deep bowl with white rice on the bottom and covered with soup. I like to forgo the rice and eat with tortilla chips and avocado slices. *¡Buen provecho!*
 
-### Substitutions 
+### Substitutions
 
 You can substitute boxed chicken broth for homemade. You can also just use a rotisserie chicken and shred up the meat instead of cooking a whole chicken or preparing shredded chicken breasts.
 
@@ -52,4 +52,4 @@ If you aren’t a fan of garbanzo beans, you could also make this with white bea
 
 * Serves 6
 * Cooking time 25 minutes
-* P﻿reparation time 5 minutes
+* Preparation time 5 minutes

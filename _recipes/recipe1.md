@@ -31,4 +31,4 @@ NOTE: The ginger ale is what makes it Costa Rican; it’s also what makes it not
 
 * Serves: 3-4
 * Preparation time: 10 minutes
-* Marinate 30 min. minimum
+* Marinate 30 minutes minimum

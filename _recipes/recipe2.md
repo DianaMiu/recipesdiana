@@ -32,8 +32,7 @@ This soup is a very popular dish in Costa Rica- but you will almost never find i
 2. Add onion, red pepper, and garlic and cook until softened. Add the chicken, one cup of broth, and the salt and bring to simmer.
 3. In a blender, add the can of tomatoes, one cup of chicken broth, and the ketchup.  Blend until smooth and add to the pan with the sofrito and chicken.
 4. Next you will add one can of undrained garbanzos and the optional carrots to the pot and stir. Bring back to a simmer. At this point, you can add drained garbanzos and chicken broth until you get the consistency of broth that you desire. For me, I like to have a lot of chickpeas and a pretty brothy soup. Add salt to taste, and bring to a boil on medium-high, then cook, stirring occasionally, for about 25 minutes to let the flavors really blend.
-5. I usually add the cilantro about 5 minutes before serving, or you can garnish the soup with fresh cilantro on top. Season with salt and pepper to taste.
-6. This soup is traditionally served in a deep bowl with white rice on the bottom and covered with soup. I like to forgo the rice and eat with tortilla chips and avocado slices. *¡Buen provecho!*
+5. I usually add the cilantro about 5 minutes before serving, or you can garnish the soup with fresh cilantro on top. Season with salt and pepper to taste. This soup is traditionally served in a deep bowl with white rice on the bottom and covered with soup. I like to forgo the rice and eat with tortilla chips and avocado slices. *¡Buen provecho!*
 
 ### Substitutions
 

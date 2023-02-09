@@ -9,7 +9,7 @@ This savory garbanzo bean soup is packed with protein and fiber- and traditional
 
 This soup is a very popular dish in Costa Rica- but you will almost never find it on a menu. It’s one of those recipes people make at home, but don’t go out to eat and crave. That’s probably because it’s simple to make from scratch, and can be reheated for several rounds of meals. It’s a relatively inexpensive recipe if you are feeding your family on a budget, and it’s easy to feed a crowd.
 
-![](../uploads/garbanzo-bean-soup-with-white-rice.jpg "Photo: Christa Jimenez")
+![](../uploads/garbanzo-bean-soup-with-white-rice.jpg "Photo by Christa Jimenez")
 
 ## Ingredients
 

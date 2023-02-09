@@ -9,7 +9,7 @@ The perfect appetizer that can be found all across Latin America, and Costa Rica
 
 There are several variations to this recipe - instead of white fish, Costa Rican ceviches can also be made with shrimp, green banana,[](https://www.puravidamoms.com/boiled-green-plantain-recipe-costa-rica/) green mango, green papaya, etc.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/traditional-costa-rican-fish-ceviche-720x540.jpg "Photo by Christa Jimenez")
+![](../uploads/traditional-costa-rican-fish-ceviche-720x540.jpg "Photo by Christa Jimenez")
 
 ## Ingredients
 
@@ -28,8 +28,6 @@ NOTE: The ginger ale is what makes it Costa Rican; it’s also what makes it not
 
 1. Combine all ingredients in a large glass bowl, cover tightly with plastic wrap, and allow the fish to “cook” in the marinade for at least 30 minutes. Tastes best after at least 6-8 hours; phenomenally good on the second day.
 2. Serve with on a bed of lettuce with sliced avocado, bell pepper strips, cucumber slices, and, if you’re feeling particularly Costa Rican, a healthy splash of Salsa Lizano - the quintessential Costa Rican sauce that you can find on [Amazon.com](https://www.amazon.com/gp/product/B005TBURAI/ref=as_li_ss_tl?ie=UTF8&tag=roltheboo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005TBURAI).
-
-
 
 ###### Serves: 3-4
 

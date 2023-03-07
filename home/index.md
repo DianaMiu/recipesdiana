@@ -1,6 +1,6 @@
 ---
-title: rice & beans
-coverimage: ../uploads/cover-costaricanfood.jpg
+title: .
+coverimage: ../uploads/cover-book-option2.jpg
 permalink: /
 layout: recipeshome
 published: true

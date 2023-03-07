@@ -29,4 +29,4 @@ Traditionally served with breakfast alongside fried or scrambled eggs, Gallo Pin
 * Preparation time: 10 minutes
 * Cooking time: 20 minutes
 
-  ![](../uploads/gallo-pinto3.jpg "Photo by Amanda Biddle")
+![](../uploads/gallo-pinto3.jpg "Photo by Amanda Biddle")

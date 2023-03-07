@@ -34,7 +34,7 @@ This soup is a very popular dish in Costa Rica- but you will almost never find i
 4. Next you will add one can of undrained garbanzos and the optional carrots to the pot and stir. Bring back to a simmer. At this point, you can add drained garbanzos and chicken broth until you get the consistency of broth that you desire. For me, I like to have a lot of chickpeas and a pretty brothy soup. Add salt to taste, and bring to a boil on medium-high, then cook, stirring occasionally, for about 25 minutes to let the flavors really blend.
 5. I usually add the cilantro about 5 minutes before serving, or you can garnish the soup with fresh cilantro on top. Season with salt and pepper to taste. This soup is traditionally served in a deep bowl with white rice on the bottom and covered with soup. I like to forgo the rice and eat with tortilla chips and avocado slices. *¡Buen provecho!*
 
-### Substitutions
+## Substitutions
 
 You can substitute boxed chicken broth for homemade. You can also just use a rotisserie chicken and shred up the meat instead of cooking a whole chicken or preparing shredded chicken breasts.
 

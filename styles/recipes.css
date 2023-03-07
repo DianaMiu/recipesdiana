@@ -1,5 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500&display=swap');
 
 
  html {
@@ -17,9 +19,9 @@
 .recipeteaser
 body{
 
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 font-size: 17px;
-color: rgb(210, 196, 152);
+color: rgb(246,224,198);
 
 
 }
@@ -27,17 +29,21 @@ color: rgb(210, 196, 152);
 
 h1 {
 
-color: rgb(5,31,80);
-font-family: 'Climate Crisis', cursive;
+color: rgb(246,224,198);
+font-family: 'Tilt Warp', cursive;
+font-size: 39px;
 text-align: center;
-padding-top: 5px;
-padding-bottom: 5px;
+padding-bottom: 29px;
+
 }
 
 p {
 margin-bottom: 1em;
-color: rgb(181, 83, 34);
+color: rgb(246,224,198);
 font-size: .9em;
+padding-top: 10px;
+line-height: 30px;
+font-family: 'Josefin Sans', sans-serif;
 }
 
 h2{color:rgb(181, 83, 34);
@@ -46,14 +52,22 @@ h2{color:rgb(181, 83, 34);
   padding-bottom: 5px;}
 
 .site-title{font-size:65px;
+  letter-spacing: 0.2cm;
+  font-family: 'Climate Crisis', cursive;
  
 }
 
+body {
+background-color: rgb(5,31,80);
+font-family: 'Josefin Sans', sans-serif;
+font-size: 20px;
 
+
+}
 .recipeshome main p {
   color: rgb(246,224,198);
   font-size: 1.4em;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   padding: 4px;
 }
 
@@ -104,7 +118,7 @@ margin-left: 60px;
 .branding{font-size: 40px;}
 
 .caption{ float:right;
-width:50%;
+width:78%;
 font-size: .8em;
 font-style: italic;
 color: rgb(246,224,198);
@@ -122,9 +136,9 @@ font-size: 12;}
 
 button{
 
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 font-style: italic;
-font-size: 15px;
+font-size: 25px;
 position:center;
 margin: 10px;
 float:center;

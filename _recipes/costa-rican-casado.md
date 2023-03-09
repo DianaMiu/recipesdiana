@@ -5,6 +5,7 @@ order: 3
 layout: recipe
 ---
 The Costa Rican *casado* is the main meal of the day- it’s the perfect Costa Rican lunch! *Casados* are a lunchtime fixture and are a fantastic way to prepare a nutritious meal with seasonal ingredients.
+
 *Casados* originally began appearing on the Costa Rican culinary scene when laborers took banana leaf-wraps of vegetables and meat to work with them. They eventually evolved into the *casado* platters of today. 
 
 ![](../uploads/casado.jpg "Photo by Candace")

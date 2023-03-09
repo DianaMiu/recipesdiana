@@ -1,5 +1,5 @@
 ---
-title: Costa Rican Tres Leches Cake
+title: Tres Leches Cake
 date: 2023-02-09T16:55:23.249Z
 order: 4
 layout: recipe

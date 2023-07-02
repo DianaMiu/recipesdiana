@@ -1,14 +1,13 @@
 ---
-title: Costa Rican Casado
-date: 2023-02-09T16:44:42.961Z
-order: 3
+title: ‘Imagine that during WW2, the world would be helping German kids in
+  schools’ – Why are Russian students helped by Brussels in war time?
+date: 2022-04-04T20:22:06.761Z
+order: 1
 layout: recipe
 ---
-The Costa Rican *casado* is the main meal of the day- it’s the perfect Costa Rican lunch! *Casados* are a lunchtime fixture and are a fantastic way to prepare a nutritious meal with seasonal ingredients.
+On March 17th, the Minister of Education of Wallonia-Brussels Federation Caroline Desir stated that over 130 Ukrainian students are already enrolled in FWB (Wallonia-Brussels Federation) schools, but this number ‘will increase very quickly and very very strongly.’ With the war impacting students directly, a question hangs in the air: Is it fair that Russian students are receiving support alongside Ukrainians?
 
-*Casados* originally began appearing on the Costa Rican culinary scene when laborers took banana leaf-wraps of vegetables and meat to work with them. They eventually evolved into the *casado* platters of today. 
-
-![](../uploads/casado.jpg "Photo by Candace")
+![](../uploads/ukraine-painted-hearts.jpg "Image by Miguel Candela via Getty Images")
 
 ## Ingredients
 

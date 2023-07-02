@@ -1,6 +1,5 @@
 ---
-title: ‘Imagine that during WW2, the world would be helping German kids in
-  schools’ – Why are Russian students helped by Brussels in war time?
+title: ‘Imagine that during WW2, the world would be helping German kids in schools’
 date: 2022-04-04T20:22:06.761Z
 order: 1
 layout: recipe
